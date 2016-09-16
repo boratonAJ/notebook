@@ -7,3 +7,4 @@ A list of SANBI people and their GitHub profile names
 | Ziphozakhe Mashologu    | zipho                         |
 | Hocine Bendou           | hocinebendou                  |
 | Warren Jacobus          | wjacobus                      |
+| Ajayi Olabode           | boratonAJ                     |
